@@ -1,0 +1,156 @@
+.bg-dark{
+    color: #eac437 !important;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #eac437 !important;
+}
+.navbar-dark .navbar-nav .nav-link{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 100;
+}
+.navbar-dark .navbar-nav .nav-item{
+    margin: 0 15px;
+}
+.nav-item .nav-link:hover{
+   color: #eac437 !important;
+
+}
+.dropdown-menu .dropdown-item:hover{
+    background-color: #eac437 !important;
+}
+.carousel-caption h5{
+
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+}
+.carousel-caption p{
+    width: 75%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
+.aboutus{
+    padding: 55px 0;
+    text-align: center;
+    background-color: #fff;
+}
+.aboutus h1{
+    font-style: 45px;
+    margin-bottom: 55px;
+    color: #eac437;
+    
+}
+.aboutus p{
+    font-size: 18px;
+    color: rgb(32, 32, 32);
+    text-transform: uppercase;
+    
+}
+
+
+.services{
+    padding: 55px 0;
+    text-align: center;
+    background-color: #343a40;
+
+}
+.services h1{
+    font-size: 45px;
+    margin-bottom: 55px;
+    color: #fff;
+}
+.services .card{
+    border: 3px solid #eac437;
+    border-radius: 0px;
+}
+.services .card-body{
+    padding: 1.25rem .9rem;
+    background-color: #ffff;
+
+}
+.services .card-body .card-title{
+    color: black;
+    font-wei1ght: 700;
+}
+.services .btn-primary{
+    color: #fff;
+    background-color:rgb(234, 196, 55);
+    border: none;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.projects {
+    padding: 55px 0;
+    text-align: center;
+    background-color: #fff;
+}
+
+.projects h1{
+    font-size: 45px;
+    margin-bottom: 55px;
+    color: #eac437;
+}
+.projects figure{
+    margin-top: 28px;
+}
+.figure-caption {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 5px;
+    color: black;
+}
+
+.footer{
+    padding: 55px 0;
+    background-color:#343a40;
+
+}
+.footer h1{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px solid #eac437;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.footer ul{
+    padding-left: 0;
+    list-style: none;
+
+}
+.footer ul li{
+    line-height: 28px;
+    font-weight: 600;
+}
+.footer ul li a{
+    color: #ffffff80;
+
+}
+.footer ul li a:hover{
+    color: #eac437;
+}
+
+.footer p{
+    color: #ffffff80;
+    margin-bottom: 7px;
+}
+.copyright{
+    height: 40px;
+    background-color: white;
+    line-height: 40px;
+}
+.copyright p{
+    margin-bottom: 0;
+    color: black;
+    
+
+}
